@@ -26,7 +26,8 @@ Understanding the **key drivers of profit** helps businesses make informed inves
 
 ### 2. Applying Multiple Linear Regression
 The **Multiple Linear Regression** formula:
-\[ Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \epsilon \]
+
+![image](https://github.com/user-attachments/assets/b00088bd-5456-479b-a83f-a1c7276afd07)
 
 - **Y** = Profit (dependent variable)
 - **X1, X2, X3** = R&D Spend, Administration, and Marketing Spend (independent variables)
